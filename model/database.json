@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Jessica Agu",
+    "gender": "Female",
+    "isMarried": true
+  },
+  {
+    "name": "Naomi Jones",
+    "gender": "transgender",
+    "isMarried": true,
+    "id": 2
+  },
+  {
+    "name": "Naomi Jones",
+    "gender": "transgender",
+    "isMarried": true,
+    "id": 3
+  },
+  {
+    "name": "Naomi Jones",
+    "gender": "transgender",
+    "isMarried": true,
+    "id": 4
+  },
+  {
+    "name": "Naomi Jones",
+    "gender": "transgender",
+    "isMarried": true,
+    "id": 5
+  },
+  {
+    "name": "Naomi Jones",
+    "gender": "transgender",
+    "isMarried": true,
+    "id": 6
+  }
+]
